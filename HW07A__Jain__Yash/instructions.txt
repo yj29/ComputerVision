@@ -1,0 +1,7 @@
+NOTE:- 
+1) If you are running for all files in folder 
+   Put folder in the same working directory 
+   FOLDER OF IMAGES SHOULD NOT BE IN TEST_IMAGES RATHER .m AND FOLDER 
+   SHOULD BE AT SAME LEVEL
+
+2) Else if you running for a single file you can keep the file in any of the TEST_IMAGES folder or the same working directory.
